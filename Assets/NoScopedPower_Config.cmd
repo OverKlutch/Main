@@ -1,7 +1,7 @@
 powercfg -duplicatescheme 8c5e7fda-e8bf-4a96-9a85-a6e23a8c635c 11111111-1111-1111-1111-111111111111
 powercfg -setactive 11111111-1111-1111-1111-111111111111
 
-powercfg -changename 11111111-1111-1111-1111-111111111111 "NoScoped Power Scheme" "Power scheme optimized for optimal latency and performance (v0.1.0)"
+powercfg -changename 11111111-1111-1111-1111-111111111111 "NoScoped Powerplan" "A powerplan optimized for optimal latency and performance"
 
 powercfg -setacvalueindex 11111111-1111-1111-1111-111111111111 0012ee47-9041-4b5d-9b77-535fba8b1442 6738e2c4-e8a5-4a42-b16a-e040e769756e 0
 
