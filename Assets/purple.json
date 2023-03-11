@@ -39,7 +39,7 @@
     "border_width": 3,
     "fg_color": ["#B589D6", "#9969C7"],
     "border_color": ["#3E454A", "#949A9F"],
-    "hover_color": ["#0C955A", "#106A43"],
+    "hover_color": ["#804FB3", "#6A359C"],
     "checkmark_color": ["#DCE4EE", "gray90"],
     "text_color": ["gray10", "#DCE4EE"],
     "text_color_disabled": ["gray60", "gray45"]
